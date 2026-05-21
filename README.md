@@ -19,7 +19,7 @@
 
 ## 🎬 Demo
 
-![Demo 1]()
+![Demo 1](https://github.com/maskar122/OCR-License-Plate-Recognition-System-Graduation-Project-/blob/e4b34d46c4c356bd188ce63f89edd895ee0dffde/App/Screenshot%20(898).png)
 ![Demo 2]()
 ![Demo 3]()
 
