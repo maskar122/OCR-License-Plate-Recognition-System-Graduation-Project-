@@ -532,7 +532,7 @@ This project is for educational purposes as part of graduation requirements.
 
 ## 📧 Contact
 
-For questions or collaboration: [your.email@example.com]
+For questions or collaboration: [askermohamed174@gmail.com]
 
 ---
 
