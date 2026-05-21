@@ -1,7 +1,3 @@
-Here's your customized README, combining the professional structure you requested with all the features from your OCR License Plate Recognition project:
-
----
-
 # 🚗 OCR License Plate Recognition System
 
 <div align="center">
